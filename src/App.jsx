@@ -84,7 +84,7 @@ import Navbar from "./components/Navbar"; // Import the Navbar component
 const Search = lazy(() => import("./components/Search"));
 const FlightResult = lazy(() => import("./components/FlightResult"));
 const FlightDetails = lazy(() => import("./components/FlightDetails"));
-const SeatBooking = lazy(() => import("./components/SeatBooking"));
+const SeatBooking = lazy(() => import("./components/seatBooking"));
 const Home = lazy(() => import("./components/Home"));
 const SignIn = lazy(() => import("./components/SignIn"));
 const PassengerInfo = lazy(() => import("./components/PassengerInfo"));
